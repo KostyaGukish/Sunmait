@@ -28,14 +28,4 @@ async def predict(input_data: TextInput):
 if __name__ == "__main__":
     import uvicorn
 
-    list = [
-        "Svdsvsdv",
-        "vdsfdvsdv",
-        "fdsvsv",
-        "dfsvsdsvfv",
-        "dfsvsdvsdv",
-        "dfsvsdvsdv",
-        "dfsvsdvsdv",
-    ]
-
     uvicorn.run(app, host="0.0.0.0", port=8000)
