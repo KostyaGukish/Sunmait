@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/df8174cea671402db1b3f714d0dc21e1/artifacts
+end_time: 1741003348349
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: df8174cea671402db1b3f714d0dc21e1
+run_name: honorable-hawk-296
+run_uuid: df8174cea671402db1b3f714d0dc21e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003347450
+status: 3
+tags: []
+user_id: root

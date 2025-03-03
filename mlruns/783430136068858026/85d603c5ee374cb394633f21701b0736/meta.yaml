@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/85d603c5ee374cb394633f21701b0736/artifacts
+end_time: 1741003390455
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 85d603c5ee374cb394633f21701b0736
+run_name: luxuriant-moth-808
+run_uuid: 85d603c5ee374cb394633f21701b0736
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003389594
+status: 3
+tags: []
+user_id: root

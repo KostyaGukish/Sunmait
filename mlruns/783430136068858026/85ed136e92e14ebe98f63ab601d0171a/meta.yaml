@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/85ed136e92e14ebe98f63ab601d0171a/artifacts
+end_time: 1741003298267
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 85ed136e92e14ebe98f63ab601d0171a
+run_name: awesome-shad-621
+run_uuid: 85ed136e92e14ebe98f63ab601d0171a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003297976
+status: 3
+tags: []
+user_id: root

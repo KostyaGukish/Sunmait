@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/97c365b497394b2aaf3c059fd6b70be3/artifacts
+end_time: 1741003346694
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 97c365b497394b2aaf3c059fd6b70be3
+run_name: blushing-ant-993
+run_uuid: 97c365b497394b2aaf3c059fd6b70be3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003345834
+status: 3
+tags: []
+user_id: root

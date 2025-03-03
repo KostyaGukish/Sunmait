@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/0c44ad273a40422d9a0deca8d7ed8268/artifacts
+end_time: 1741003398897
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 0c44ad273a40422d9a0deca8d7ed8268
+run_name: overjoyed-bat-650
+run_uuid: 0c44ad273a40422d9a0deca8d7ed8268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003398338
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/d0c3f07ce39a4253a4eb07925658225a/artifacts
+end_time: 1741003306603
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: d0c3f07ce39a4253a4eb07925658225a
+run_name: calm-conch-406
+run_uuid: d0c3f07ce39a4253a4eb07925658225a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003306202
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/c6ec537435274c1d96b6eb98835396ce/artifacts
+end_time: 1741003407462
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: c6ec537435274c1d96b6eb98835396ce
+run_name: colorful-fowl-396
+run_uuid: c6ec537435274c1d96b6eb98835396ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003406842
+status: 3
+tags: []
+user_id: root

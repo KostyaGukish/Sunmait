@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/9cec1d82887240aaa743afdd0391140c/artifacts
+end_time: 1741003302794
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 9cec1d82887240aaa743afdd0391140c
+run_name: blushing-fox-531
+run_uuid: 9cec1d82887240aaa743afdd0391140c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003302239
+status: 3
+tags: []
+user_id: root

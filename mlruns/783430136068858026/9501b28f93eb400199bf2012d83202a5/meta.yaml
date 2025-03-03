@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/9501b28f93eb400199bf2012d83202a5/artifacts
+end_time: 1741003349346
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 9501b28f93eb400199bf2012d83202a5
+run_name: indecisive-swan-878
+run_uuid: 9501b28f93eb400199bf2012d83202a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003348822
+status: 3
+tags: []
+user_id: root

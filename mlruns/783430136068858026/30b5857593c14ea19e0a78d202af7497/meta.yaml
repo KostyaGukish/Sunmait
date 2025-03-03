@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/30b5857593c14ea19e0a78d202af7497/artifacts
+end_time: 1741003352861
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 30b5857593c14ea19e0a78d202af7497
+run_name: agreeable-grub-118
+run_uuid: 30b5857593c14ea19e0a78d202af7497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003352157
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/cfbacd577649416fb38e0d03ba538d06/artifacts
+end_time: 1741003350373
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: cfbacd577649416fb38e0d03ba538d06
+run_name: nebulous-hog-36
+run_uuid: cfbacd577649416fb38e0d03ba538d06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003349362
+status: 3
+tags: []
+user_id: root

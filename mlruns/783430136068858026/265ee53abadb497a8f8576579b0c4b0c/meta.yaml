@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/265ee53abadb497a8f8576579b0c4b0c/artifacts
+end_time: 1741003328656
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 265ee53abadb497a8f8576579b0c4b0c
+run_name: youthful-eel-968
+run_uuid: 265ee53abadb497a8f8576579b0c4b0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003327238
+status: 3
+tags: []
+user_id: root

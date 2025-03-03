@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/e3ff01139f504df7a5976c0370aac878/artifacts
+end_time: 1741003366100
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: e3ff01139f504df7a5976c0370aac878
+run_name: handsome-cow-778
+run_uuid: e3ff01139f504df7a5976c0370aac878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003365661
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/67fc3b4aa7d745c49c6d354666f4d90b/artifacts
+end_time: 1741003382953
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 67fc3b4aa7d745c49c6d354666f4d90b
+run_name: placid-hawk-687
+run_uuid: 67fc3b4aa7d745c49c6d354666f4d90b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003382568
+status: 3
+tags: []
+user_id: root

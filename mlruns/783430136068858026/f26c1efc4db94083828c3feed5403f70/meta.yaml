@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/f26c1efc4db94083828c3feed5403f70/artifacts
+end_time: 1741003308175
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: f26c1efc4db94083828c3feed5403f70
+run_name: bustling-shoat-200
+run_uuid: f26c1efc4db94083828c3feed5403f70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003307900
+status: 3
+tags: []
+user_id: root

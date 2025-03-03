@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/c9093e85162144459723783daceac98c/artifacts
+end_time: 1741003364201
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: c9093e85162144459723783daceac98c
+run_name: fun-finch-915
+run_uuid: c9093e85162144459723783daceac98c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003363305
+status: 3
+tags: []
+user_id: root

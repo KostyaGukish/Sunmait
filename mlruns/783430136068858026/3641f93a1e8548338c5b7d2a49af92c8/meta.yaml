@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/3641f93a1e8548338c5b7d2a49af92c8/artifacts
+end_time: 1741003358586
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 3641f93a1e8548338c5b7d2a49af92c8
+run_name: zealous-bass-78
+run_uuid: 3641f93a1e8548338c5b7d2a49af92c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003356960
+status: 3
+tags: []
+user_id: root

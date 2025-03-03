@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/69ff0d89f37d426eb7ae2619c35f2322/artifacts
+end_time: 1741003316849
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 69ff0d89f37d426eb7ae2619c35f2322
+run_name: fortunate-moose-861
+run_uuid: 69ff0d89f37d426eb7ae2619c35f2322
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003316177
+status: 3
+tags: []
+user_id: root

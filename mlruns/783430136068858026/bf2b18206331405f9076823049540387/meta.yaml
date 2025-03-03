@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/bf2b18206331405f9076823049540387/artifacts
+end_time: 1741003338337
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: bf2b18206331405f9076823049540387
+run_name: upset-carp-789
+run_uuid: bf2b18206331405f9076823049540387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003337833
+status: 3
+tags: []
+user_id: root

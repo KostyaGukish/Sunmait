@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/e291136921a1439dbae4f2a5f784e0e6/artifacts
+end_time: 1741003397723
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: e291136921a1439dbae4f2a5f784e0e6
+run_name: auspicious-pig-270
+run_uuid: e291136921a1439dbae4f2a5f784e0e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003396862
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/8525bc8b4d73459ab69f4dace6ffa457/artifacts
+end_time: 1741003395229
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 8525bc8b4d73459ab69f4dace6ffa457
+run_name: capricious-doe-776
+run_uuid: 8525bc8b4d73459ab69f4dace6ffa457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003394210
+status: 3
+tags: []
+user_id: root

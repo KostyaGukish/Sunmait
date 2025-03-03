@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/03a84ffaa7d245c88bfa7ba4519d0c28/artifacts
+end_time: 1741003371874
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 03a84ffaa7d245c88bfa7ba4519d0c28
+run_name: skillful-crane-414
+run_uuid: 03a84ffaa7d245c88bfa7ba4519d0c28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003371450
+status: 3
+tags: []
+user_id: root

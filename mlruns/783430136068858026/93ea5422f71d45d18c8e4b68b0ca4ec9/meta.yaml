@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/93ea5422f71d45d18c8e4b68b0ca4ec9/artifacts
+end_time: 1741003392137
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 93ea5422f71d45d18c8e4b68b0ca4ec9
+run_name: auspicious-koi-428
+run_uuid: 93ea5422f71d45d18c8e4b68b0ca4ec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003391596
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/ec7ce627202041708b9e7610a58eb790/artifacts
+end_time: 1741003382544
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: ec7ce627202041708b9e7610a58eb790
+run_name: able-squid-753
+run_uuid: ec7ce627202041708b9e7610a58eb790
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003381572
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/be147747e1f64407a00b59a45bfd6570/artifacts
+end_time: 1741003408294
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: be147747e1f64407a00b59a45bfd6570
+run_name: nosy-yak-193
+run_uuid: be147747e1f64407a00b59a45bfd6570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003407485
+status: 3
+tags: []
+user_id: root

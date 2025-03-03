@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/bec4646c2b6846bbab804be90256319b/artifacts
+end_time: 1741003336434
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: bec4646c2b6846bbab804be90256319b
+run_name: wistful-calf-358
+run_uuid: bec4646c2b6846bbab804be90256319b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003335937
+status: 3
+tags: []
+user_id: root

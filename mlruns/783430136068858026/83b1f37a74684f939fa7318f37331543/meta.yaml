@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/83b1f37a74684f939fa7318f37331543/artifacts
+end_time: 1741003340380
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 83b1f37a74684f939fa7318f37331543
+run_name: sincere-doe-281
+run_uuid: 83b1f37a74684f939fa7318f37331543
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003339748
+status: 3
+tags: []
+user_id: root

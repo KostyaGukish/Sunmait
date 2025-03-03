@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/6575750f7e5b40c9a8767eb4d42ca869/artifacts
+end_time: 1741003396833
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 6575750f7e5b40c9a8767eb4d42ca869
+run_name: inquisitive-fly-133
+run_uuid: 6575750f7e5b40c9a8767eb4d42ca869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003396242
+status: 3
+tags: []
+user_id: root

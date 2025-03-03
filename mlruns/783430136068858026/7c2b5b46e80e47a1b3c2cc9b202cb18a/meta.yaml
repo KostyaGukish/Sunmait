@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/7c2b5b46e80e47a1b3c2cc9b202cb18a/artifacts
+end_time: 1741003299243
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 7c2b5b46e80e47a1b3c2cc9b202cb18a
+run_name: resilient-bird-159
+run_uuid: 7c2b5b46e80e47a1b3c2cc9b202cb18a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003298801
+status: 3
+tags: []
+user_id: root

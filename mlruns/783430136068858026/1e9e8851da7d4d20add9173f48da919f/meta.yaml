@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/1e9e8851da7d4d20add9173f48da919f/artifacts
+end_time: 1741003384967
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 1e9e8851da7d4d20add9173f48da919f
+run_name: sassy-seal-369
+run_uuid: 1e9e8851da7d4d20add9173f48da919f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003383019
+status: 3
+tags: []
+user_id: root

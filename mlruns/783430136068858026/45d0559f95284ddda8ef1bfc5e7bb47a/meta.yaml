@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/45d0559f95284ddda8ef1bfc5e7bb47a/artifacts
+end_time: 1741003391563
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 45d0559f95284ddda8ef1bfc5e7bb47a
+run_name: capable-bug-181
+run_uuid: 45d0559f95284ddda8ef1bfc5e7bb47a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003390486
+status: 3
+tags: []
+user_id: root

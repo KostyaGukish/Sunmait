@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/d8178543e5344ffd92d66a9d30984c05/artifacts
+end_time: 1741003352139
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: d8178543e5344ffd92d66a9d30984c05
+run_name: loud-ram-633
+run_uuid: d8178543e5344ffd92d66a9d30984c05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003351544
+status: 3
+tags: []
+user_id: root

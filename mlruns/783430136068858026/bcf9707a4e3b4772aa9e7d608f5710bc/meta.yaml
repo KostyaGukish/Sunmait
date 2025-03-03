@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/bcf9707a4e3b4772aa9e7d608f5710bc/artifacts
+end_time: 1741003348801
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: bcf9707a4e3b4772aa9e7d608f5710bc
+run_name: spiffy-cat-11
+run_uuid: bcf9707a4e3b4772aa9e7d608f5710bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003348378
+status: 3
+tags: []
+user_id: root

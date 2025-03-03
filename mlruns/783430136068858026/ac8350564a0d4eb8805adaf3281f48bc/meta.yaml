@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/ac8350564a0d4eb8805adaf3281f48bc/artifacts
+end_time: 1741003354491
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: ac8350564a0d4eb8805adaf3281f48bc
+run_name: clean-snipe-951
+run_uuid: ac8350564a0d4eb8805adaf3281f48bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003353951
+status: 3
+tags: []
+user_id: root

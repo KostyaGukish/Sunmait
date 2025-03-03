@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/8f8797e89d084a7086e53dff8f84d90b/artifacts
+end_time: 1741003356412
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 8f8797e89d084a7086e53dff8f84d90b
+run_name: stately-dove-338
+run_uuid: 8f8797e89d084a7086e53dff8f84d90b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003355764
+status: 3
+tags: []
+user_id: root

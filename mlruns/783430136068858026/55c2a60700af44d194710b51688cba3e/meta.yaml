@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/55c2a60700af44d194710b51688cba3e/artifacts
+end_time: 1741003335917
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 55c2a60700af44d194710b51688cba3e
+run_name: tasteful-stork-546
+run_uuid: 55c2a60700af44d194710b51688cba3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003335608
+status: 3
+tags: []
+user_id: root

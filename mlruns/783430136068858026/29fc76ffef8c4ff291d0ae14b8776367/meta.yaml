@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/29fc76ffef8c4ff291d0ae14b8776367/artifacts
+end_time: 1741003372471
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 29fc76ffef8c4ff291d0ae14b8776367
+run_name: bold-crab-604
+run_uuid: 29fc76ffef8c4ff291d0ae14b8776367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003371903
+status: 3
+tags: []
+user_id: root

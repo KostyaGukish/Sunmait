@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/2e1cc35a053248cfac69fe1be6fa416c/artifacts
+end_time: 1741003398318
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 2e1cc35a053248cfac69fe1be6fa416c
+run_name: exultant-dog-686
+run_uuid: 2e1cc35a053248cfac69fe1be6fa416c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003397749
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/de065ac0463346faaaab9a03c5bbd0e8/artifacts
+end_time: 1741003300406
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: de065ac0463346faaaab9a03c5bbd0e8
+run_name: wistful-bee-896
+run_uuid: de065ac0463346faaaab9a03c5bbd0e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003299755
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/a65f729c2d0342c384d6a433005ab230/artifacts
+end_time: 1741003339732
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: a65f729c2d0342c384d6a433005ab230
+run_name: mysterious-snake-757
+run_uuid: a65f729c2d0342c384d6a433005ab230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003339309
+status: 3
+tags: []
+user_id: root

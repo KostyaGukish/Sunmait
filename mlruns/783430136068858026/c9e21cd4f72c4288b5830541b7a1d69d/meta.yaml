@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/c9e21cd4f72c4288b5830541b7a1d69d/artifacts
+end_time: 1741003312525
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: c9e21cd4f72c4288b5830541b7a1d69d
+run_name: orderly-hound-564
+run_uuid: c9e21cd4f72c4288b5830541b7a1d69d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003311841
+status: 3
+tags: []
+user_id: root

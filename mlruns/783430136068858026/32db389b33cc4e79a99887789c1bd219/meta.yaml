@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/32db389b33cc4e79a99887789c1bd219/artifacts
+end_time: 1741003415199
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 32db389b33cc4e79a99887789c1bd219
+run_name: aged-kit-93
+run_uuid: 32db389b33cc4e79a99887789c1bd219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003414606
+status: 3
+tags: []
+user_id: root

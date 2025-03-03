@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/347d5bf2d5384ccd9e04a1be82c83135/artifacts
+end_time: 1741003323814
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 347d5bf2d5384ccd9e04a1be82c83135
+run_name: adaptable-carp-424
+run_uuid: 347d5bf2d5384ccd9e04a1be82c83135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003322965
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/a2553a3ddc5041bf9e1729e5f8b27ad4/artifacts
+end_time: 1741003377931
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: a2553a3ddc5041bf9e1729e5f8b27ad4
+run_name: aged-colt-300
+run_uuid: a2553a3ddc5041bf9e1729e5f8b27ad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003377076
+status: 3
+tags: []
+user_id: root

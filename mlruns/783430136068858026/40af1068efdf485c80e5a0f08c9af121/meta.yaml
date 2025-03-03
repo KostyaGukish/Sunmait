@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/40af1068efdf485c80e5a0f08c9af121/artifacts
+end_time: 1741003332144
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 40af1068efdf485c80e5a0f08c9af121
+run_name: languid-ram-297
+run_uuid: 40af1068efdf485c80e5a0f08c9af121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003331654
+status: 3
+tags: []
+user_id: root

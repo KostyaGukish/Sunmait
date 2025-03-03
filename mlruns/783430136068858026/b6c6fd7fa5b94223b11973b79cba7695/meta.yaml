@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/b6c6fd7fa5b94223b11973b79cba7695/artifacts
+end_time: 1741003288749
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: b6c6fd7fa5b94223b11973b79cba7695
+run_name: powerful-moose-406
+run_uuid: b6c6fd7fa5b94223b11973b79cba7695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003288550
+status: 3
+tags: []
+user_id: root

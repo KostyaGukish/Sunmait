@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/474628cbdbbb4490ac4ff11bf7421d73/artifacts
+end_time: 1741003287288
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 474628cbdbbb4490ac4ff11bf7421d73
+run_name: respected-lamb-796
+run_uuid: 474628cbdbbb4490ac4ff11bf7421d73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003286956
+status: 3
+tags: []
+user_id: root

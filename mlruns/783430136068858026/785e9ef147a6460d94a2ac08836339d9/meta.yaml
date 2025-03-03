@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/785e9ef147a6460d94a2ac08836339d9/artifacts
+end_time: 1741003302222
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 785e9ef147a6460d94a2ac08836339d9
+run_name: legendary-duck-309
+run_uuid: 785e9ef147a6460d94a2ac08836339d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003301483
+status: 3
+tags: []
+user_id: root

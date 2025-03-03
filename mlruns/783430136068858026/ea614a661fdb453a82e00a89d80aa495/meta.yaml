@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/ea614a661fdb453a82e00a89d80aa495/artifacts
+end_time: 1741003341987
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: ea614a661fdb453a82e00a89d80aa495
+run_name: abundant-pug-357
+run_uuid: ea614a661fdb453a82e00a89d80aa495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003341601
+status: 3
+tags: []
+user_id: root

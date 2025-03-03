@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/b20547b4eefb410c82734bc974a3c7c3/artifacts
+end_time: 1741003365635
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: b20547b4eefb410c82734bc974a3c7c3
+run_name: judicious-chimp-802
+run_uuid: b20547b4eefb410c82734bc974a3c7c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003365149
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/d0de8c09837e460591eae48605ae9dd2/artifacts
+end_time: 1741003316161
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: d0de8c09837e460591eae48605ae9dd2
+run_name: monumental-hound-636
+run_uuid: d0de8c09837e460591eae48605ae9dd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003315319
+status: 3
+tags: []
+user_id: root

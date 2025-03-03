@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/7a92896383484bbf98824afc11cdc292/artifacts
+end_time: 1741003373946
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 7a92896383484bbf98824afc11cdc292
+run_name: stylish-pug-197
+run_uuid: 7a92896383484bbf98824afc11cdc292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003372495
+status: 3
+tags: []
+user_id: root

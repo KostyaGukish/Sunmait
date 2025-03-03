@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/ef9cb7cd691346d9b731f0ad001e1e5c/artifacts
+end_time: 1741003368835
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: ef9cb7cd691346d9b731f0ad001e1e5c
+run_name: mercurial-duck-591
+run_uuid: ef9cb7cd691346d9b731f0ad001e1e5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003368361
+status: 3
+tags: []
+user_id: root

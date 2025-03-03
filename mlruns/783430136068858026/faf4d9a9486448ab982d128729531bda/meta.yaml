@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/faf4d9a9486448ab982d128729531bda/artifacts
+end_time: 1741003356916
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: faf4d9a9486448ab982d128729531bda
+run_name: brawny-sponge-58
+run_uuid: faf4d9a9486448ab982d128729531bda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003356508
+status: 3
+tags: []
+user_id: root

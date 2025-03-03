@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/d9c67405adcb41359af83e9d58c64a2d/artifacts
+end_time: 1741003295001
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: d9c67405adcb41359af83e9d58c64a2d
+run_name: invincible-boar-99
+run_uuid: d9c67405adcb41359af83e9d58c64a2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003294632
+status: 3
+tags: []
+user_id: root

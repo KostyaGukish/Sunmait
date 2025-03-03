@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/d950eef491404ca0a2c0800960136b9e/artifacts
+end_time: 1741003340871
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: d950eef491404ca0a2c0800960136b9e
+run_name: classy-sheep-931
+run_uuid: d950eef491404ca0a2c0800960136b9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003340412
+status: 3
+tags: []
+user_id: root

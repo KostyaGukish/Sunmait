@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/bfba3d868e0b4667baa3beb26d024af3/artifacts
+end_time: 1741003291657
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: bfba3d868e0b4667baa3beb26d024af3
+run_name: classy-moth-140
+run_uuid: bfba3d868e0b4667baa3beb26d024af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003290291
+status: 3
+tags: []
+user_id: root

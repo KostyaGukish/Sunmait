@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/783430136068858026/846fa7724fbf425780c4d17d21b51313/artifacts
+end_time: 1741003368342
+entry_point_name: ''
+experiment_id: '783430136068858026'
+lifecycle_stage: active
+run_id: 846fa7724fbf425780c4d17d21b51313
+run_name: clean-shark-233
+run_uuid: 846fa7724fbf425780c4d17d21b51313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741003367865
+status: 3
+tags: []
+user_id: root
